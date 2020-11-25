@@ -1,0 +1,4 @@
+#Input File path - Enter Either file name with .txt extension or Absolute file path
+INPUT_FILE = regular25.txt
+#Output Folder - Enter Absolute file path
+OUTPUT_FOLDER = /Users/nikhilchitlurnavakiran/Development/My_Projects/Bioinformatics/3DWSPA/
