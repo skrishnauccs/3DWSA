@@ -23,5 +23,12 @@ Input Parameters Contains <br/>
 INPUT_FILE: Hi-C N*N contact matrix <br/>
 OUTPUT_FOLDER: Output folder where pdb file and log files needs to be created.<br/>
 
+# Output
+
+3DWSPA produces 2 files <br/>
+
+*.pdb: contains the model which can be visualized using pyMol <br/>
+*_log.txt: Log files prints best average root means square error (RMSE), average correlation of Spearman's (SCC) and Pearson's correlations(PSC) of separate models generated using different converversion factor , which varies from 0 to 2.
+
 # Citation
 [1] Zou, Chenchen, Yuping Zhang, and Zhengqing Ouyang. "HSA: integrating multi-track Hi-C data for genome-scale reconstruction of 3D chromatin structure." Genome biology 17, no. 1 (2016): 40.
