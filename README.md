@@ -13,7 +13,7 @@ This code uses simulated data downloaded from https://umass.app.box.com/s/kbf2kj
 
 # Input matrix file format:
 
- This model acces N*N space delimited ** Square Matrix ** <br/>
+ This model acces N*N space delimited **Square Matrix ** <br/>
 
 # Usage
 
