@@ -1,0 +1,5 @@
+Input Filename: chr7_matrix
+Convert factor: 0.2
+AVG Spearman correlation Dist vs. Reconstructed Dist: 0.28271043371082266
+AVG Pearson correlation Dist vs. Reconstructed Dist: 0.3593007766324028
+AVG RMSE: 180605.0712094578
